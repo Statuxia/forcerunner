@@ -1,0 +1,4 @@
+name: Forcerunner
+version: '${version}'
+main: me.statuxia.forcerunner.Forcerunner
+api-version: 1.19
